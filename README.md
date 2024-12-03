@@ -1,5 +1,4 @@
 # CS50: Lights Controller
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)]()
 ## _An ESP8266 local web server_
 #### Video Demo:  <https://youtu.be/pckg3LFcBEoE>
 #### Description:
